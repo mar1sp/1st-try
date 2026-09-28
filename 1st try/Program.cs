@@ -5,7 +5,7 @@ string city = Console.ReadLine();
 Console.WriteLine("Сколько тебе лет?");
 int age = int.Parse(Console.ReadLine());
 
-Console.WriteLine("===== Информация о пользователе =====");
+Console.WriteLine("===== Информация о говне =====");
 Console.WriteLine($"Имя: {name}");
 Console.WriteLine($"Возраст: {age}");
 Console.WriteLine($"Город: {city}");
